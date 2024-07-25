@@ -14,3 +14,5 @@ Crea una clase que tendrá la responsabilidad de gestionar los días de la seman
 <h3>Requisitos :</h3>
 <li>Se debe realizar un test unitario de cada método</li>
 <li>Se debe utilizar la colección "List" de java.util</li>
+
+![5923b5ded8990d4fff542d7ce8155edb](https://github.com/user-attachments/assets/e23e00f0-c234-42ef-aa93-2bee2030a92b)
